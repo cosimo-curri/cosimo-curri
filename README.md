@@ -11,7 +11,7 @@ My work combines data-driven experimentation, model development and evaluation, 
 **Research Intern — [Politecnico di Bari](https://www.poliba.it/en/laurea-magistrale-ingegneria-informatica)**  
 May 2025 – Sep 2026
 
-Conducted academic research on graph-based recommender systems, focusing on Deep Learning, Graph Neural Networks (GNNs), and top-K recommendation. Reproduced and benchmarked recommendation models across multiple datasets through controlled experiments. Investigated the impact of graph sampling, architectural configurations, and training strategies on recommendation performance. Evaluated experimental results using ranking metrics such as Recall@K and nDCG@K, emphasizing reproducibility and critical interpretation. Organized experimental code, configurations, execution scripts, and documentation to support reproducible research, and contributed to the preparation of a scientific manuscript.
+Conducted academic research on graph-based recommender systems, focusing on deep learning, graph neural networks (GNNs), and top-K recommendation. Reproduced and benchmarked recommender system models across multiple datasets through controlled experiments. Investigated the impact of graph sampling, architectural configurations, and training strategies on recommendation performance. Evaluated experimental results using ranking metrics such as Recall@K and nDCG@K, emphasizing reproducibility and critical interpretation. Organized experimental code, configurations, execution scripts, and documentation to support reproducible research, and contributed to the preparation of a scientific manuscript.
 
 ## Project Portfolio
 
